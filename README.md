@@ -32,4 +32,4 @@ Project website
        
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/399px-France_location_map-Regions_and_departements-2016.svg.png">
         
-    </body
+    </body>
