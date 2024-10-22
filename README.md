@@ -1,6 +1,6 @@
 # Mari2-web.github.io
 Project website
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
